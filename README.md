@@ -24,11 +24,12 @@ cargo doc
 ### Documentation
 
 After you have built the documentation with
+
 ``sh
 cargo doc
 ```
 
-you can view the documentation with your browser by opening
+You can view the documentation with your browser by opening
 file concurrency/target/doc/concurrency/index.html .
 
 
