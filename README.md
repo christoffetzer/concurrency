@@ -25,7 +25,7 @@ cargo doc
 
 After you have built the documentation with
 
-``sh
+```sh
 cargo doc
 ```
 
