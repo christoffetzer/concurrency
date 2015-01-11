@@ -1,0 +1,16 @@
+[package]
+
+name = "concurrency"
+version = "0.0.1"
+authors = ["Christof Fetzer <christof.fetzer@gmail.com>"]
+description = "This package defines a simple sort function  to demonstrate random testing with the help of post-conditions. The intention is to use the code in class and for task assignments. Not intended for any other use."
+
+documentation = "https://github.com/christoffetzer/concurrency"
+homepage = "https://github.com/christoffetzer/concurrency"
+repository = "https://github.com/christoffetzer/concurrency"
+readme = "README.md"
+keywords = ["concurrency", "examples"]
+license = "Unlicensed"
+
+[lib]
+name = "concurrency"
